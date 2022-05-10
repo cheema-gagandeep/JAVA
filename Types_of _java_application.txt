@@ -1,0 +1,11 @@
+1)Standlone application:
+These are those application which we need to install on machine. these applications are also known as window base application for example antivirus,game.
+
+2) Web Application
+An application that runs on the server side and creates a dynamic page is called a web application. Currently, Servlet, JSP, Struts, Spring, Hibernate, JSF, etc. technologies are used for creating web applications in Java.
+
+3) Enterprise Application
+An application that is distributed in nature, such as banking applications, etc. is called an enterprise application. It has advantages like high-level security, load balancing, and clustering. In Java, EJB is used for creating enterprise applications.
+
+4) Mobile Application
+An application which is created for mobile devices is called a mobile application. Currently, Android and Java ME are used for creating mobile applications.
