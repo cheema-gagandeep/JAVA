@@ -1,4 +1,4 @@
-class SecondTypeOfVariable
+class TypeOfVariable
 {
     static int a=100;//Static variable
     void a()

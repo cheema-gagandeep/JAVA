@@ -1,0 +1,11 @@
+Primitive Data type are those data type which have actual value of the variable.
+It is also called built in type or value type
+there are 8 non primitive data type. 
+
+1.int 2.float 3. char 4.boolean 5. short 6.byte 7.long 8.double
+
+NON-PRIMITIVE DATA TYPE (REFRENCE TYPE-DERIVED TYPE)
+The memory location associated with reference type variable contains an address
+ that indicates the memory location of the actual object.
+
+1.Array 2.Interface 3.class

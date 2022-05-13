@@ -1,0 +1,5 @@
+1."We need to remember single name instead of multiple name."
+2.Overload methods that perform similar tasks can make complex program more readable, 
+understandable and easy to debug.
+3.Maintaining of the program becomes easier.
+4.Overload methods are extensively used for handling class objects.

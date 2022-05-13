@@ -1,0 +1,16 @@
+
+
+The Break statement
+
+break;
+
+The break statement terminates the execution of the loop in which 
+it is defined and the control is transferred immediately to the next 
+executable statement after the loop.
+
+The Continue statement
+
+continue; 
+
+The continue statement skips the remaining statements of the body of the loop here
+ it is defined ,the control is transferred to the begining of the loop for next iteration.
