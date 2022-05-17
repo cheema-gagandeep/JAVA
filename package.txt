@@ -1,0 +1,4 @@
+Java Package
+1.A java package is a group of similar types of classes,interfaces and sub packages.
+2.Package in java can be categoried in two form ,built in package and used defined package
+3.Thereare many built in packages such as java,lang,at,javax,sing,net,io,util,sl,etc

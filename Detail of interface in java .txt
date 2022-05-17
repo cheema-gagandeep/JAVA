@@ -1,0 +1,6 @@
+Interface in java
+It is a blue print of a class.
+It has static constant and abstract method
+The interface in java is a mechanism to achieve abstraction.
+There can be only abstract methods in java interface ,not method body.
+It is used to acheive abstraction and multiple inheritance in java
